@@ -12,7 +12,7 @@
 	<scm>
 		<url>https://github.com/Sinouplen/CommonUI4J.git</url>
 		<connection>scm:git:https://github.com/Sinouplen/CommonUI4J.git</connection>
-		<developerConnection>scm:git:https://github.com/Sinouplen/CommonUI4J.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com:Sinouplen/CommonUI4J.git</developerConnection>
 	</scm>
 
 	<distributionManagement>
