@@ -43,11 +43,11 @@
 
 	<repositories>
 		<repository>
-			<id>sinouplen-releases-repository</id>
+			<id>sinouplen-releases</id>
 			<url>https://github.com/Sinouplen/mvn-repo/raw/master/releases</url>
 		</repository>
 		<repository>
-			<id>sinouplen-snapshots-repository</id>
+			<id>sinouplen-snapshots</id>
 			<url>https://github.com/Sinouplen/mvn-repo/raw/master/snapshots</url>
 		</repository>
 	</repositories>
